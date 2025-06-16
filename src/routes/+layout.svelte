@@ -53,7 +53,7 @@
     onMount(() => {
         let unsubscribe = featureFlags.subscribe((flags) => {
             if (flags.darkMode) {
-                document.documentElement.setAttribute('data-theme', 'biblioNexusDark');
+                document.documentElement.setAttribute('data-theme', 'wellDark');
             } else {
                 document.documentElement.removeAttribute('data-theme');
             }

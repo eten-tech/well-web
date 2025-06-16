@@ -1,5 +1,5 @@
 /**
- * Plugin that adds BiblioNexus-specific headers to requests.
+ * Plugin that adds specific headers to requests.
  * This plugin intercepts fetch requests and adds an API key as a query parameter,
  * sets the 'bn-source' header, and optionally adds a user ID header.
  * Used with Workbox for service worker request handling.

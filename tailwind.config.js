@@ -34,7 +34,7 @@ export default {
     daisyui: {
         themes: [
             {
-                biblioNexusLight: {
+                wellLight: {
                     'color-scheme': 'light',
                     primary: '#00A3E0',
                     'primary-focus': '#0174a3',
@@ -79,7 +79,7 @@ export default {
                 },
             },
             {
-                biblioNexusDark: {
+                wellDark: {
                     'color-scheme': 'dark',
                     primary: '#a0967e',
                     '--primary-300': '#776e5a',
