@@ -2400,9 +2400,9 @@ anymatch@~3.1.2:
     normalize-path "^3.0.0"
     picomatch "^2.0.4"
 
-"aquifer-tiptap@https://github.com/BiblioNexusStudio/aquifer-tiptap#1.0.11":
+"aquifer-tiptap@https://github.com/eten-tech/aquifer-tiptap#1.0.11":
   version "1.0.0"
-  resolved "https://github.com/BiblioNexusStudio/aquifer-tiptap#03bab9470bd4a4b69c6ce60b365a8b3f58708778"
+  resolved "https://github.com/eten-tech/aquifer-tiptap#03bab9470bd4a4b69c6ce60b365a8b3f58708778"
   dependencies:
     "@tiptap/core" "^2.8.0"
     "@tiptap/extension-blockquote" "^2.8.0"
@@ -3773,9 +3773,9 @@ eslint-config-prettier@^9.0.0:
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-9.0.0.tgz#eb25485946dd0c66cd216a46232dc05451518d1f"
   integrity sha512-IcJsTkJae2S35pRsRAwoCE+925rJJStOdkKnLVgtE+tEpqU0EVVM7OqrwxqgptKdX29NUwC82I5pXsGFIgSevw==
 
-"eslint-plugin-svelte-translate-check@https://github.com/BiblioNexusStudio/eslint-plugin-svelte-translate-check":
+"eslint-plugin-svelte-translate-check@https://github.com/eten-tech/eslint-plugin-svelte-translate-check":
   version "1.0.0"
-  resolved "https://github.com/BiblioNexusStudio/eslint-plugin-svelte-translate-check#1952c2c18d99e4c9b578802f4e0004295beba848"
+  resolved "https://github.com/eten-tech/eslint-plugin-svelte-translate-check#a854b71f5d22c6652558cedb0a78e262cd2a3605"
 
 eslint-plugin-svelte@^2.43.0:
   version "2.44.0"
