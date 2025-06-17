@@ -9,7 +9,7 @@
             try {
                 const featureFlags = JSON.parse(localStorage.getItem('featureFlags') || '{}');
                 if (featureFlags && featureFlags.darkMode) {
-                    document.documentElement.setAttribute('data-theme', 'biblioNexusDark');
+                    document.documentElement.setAttribute('data-theme', 'wellNexusDark');
                 }
             } catch (error) {
                 // no access to app insights here so using a standard console.error
@@ -55,12 +55,12 @@
                 color: #101828;
             }
 
-            [data-theme='biblioNexusDark'] body {
+            [data-theme='wellDark'] body {
                 /* base-100 */
                 background-color: #202020;
             }
 
-            [data-theme='biblioNexusDark'] #svelte-loading-spinner {
+            [data-theme='wellDark'] #svelte-loading-spinner {
                 /* base-content */
                 color: #dedfe2;
             }
